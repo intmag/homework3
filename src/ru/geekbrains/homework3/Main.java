@@ -147,7 +147,6 @@ public class Main {
         }
     }
 
-
     private static void stringToChar(String str, boolean effects, boolean breakLine) throws InterruptedException {
         if (effects) {
             char[] chars = str.toCharArray();
